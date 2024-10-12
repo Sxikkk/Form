@@ -1,0 +1,19 @@
+.MyA{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    border: none;
+    outline: none;
+    background: none;
+    text-decoration: underline;
+    color: #0f42ee;
+    cursor: pointer;
+}
+
+.MyA:hover{
+    color: #0127a6;
+}
+
+.MyA:target{
+    color: #0127a6;
+}
